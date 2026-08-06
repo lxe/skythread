@@ -42,9 +42,9 @@ Once a scene worked, I kept it and moved to the next one. One generation per sce
 
 ## Keeping the HoloSomnia style
 
-HoloSomnia is my own visual style, so I used a style LoRA instead of relying on Krea's default look. The exact checkpoint used for these references was `holosomnia-krea2-style-v3-full.safetensors`, trained on Krea 2 Raw for use with Krea 2 Turbo. I used it at a relatively light strength of `0.4` so the style carried across the film without overpowering the scene layout or character details.
+HoloSomnia is my own visual style, so I used a style LoRA instead of relying on Krea's default look. The exact checkpoint used for these references is [HoloSomnia Krea 2 Style LoRA](https://huggingface.co/lxe/holosomnia-krea2-style-lora), trained on Krea 2 Raw for use with Krea 2 Turbo. I used it at a relatively light strength of `0.4` so the style carried across the film without overpowering the scene layout or character details.
 
-That Krea-specific checkpoint does not appear to have a public model page yet. Related public versions of my HoloSomnia LoRA are available for [SDXL on Civitai](https://civitai.com/models/514241) and [Z-Image Turbo on Hugging Face](https://huggingface.co/lxe/holosomnia-zimage-turbo-lora). They show the same style direction, but they are trained for different base models and are not direct replacements for the Krea 2 LoRA used here.
+Related versions of my HoloSomnia LoRA are also available for [SDXL on Civitai](https://civitai.com/models/514241) and [Z-Image Turbo on Hugging Face](https://huggingface.co/lxe/holosomnia-zimage-turbo-lora). They show the same style direction, but they are trained for different base models and are not direct replacements for the Krea 2 version used here.
 
 ## Final scenes
 
