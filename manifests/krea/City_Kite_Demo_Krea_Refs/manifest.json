@@ -1,0 +1,43 @@
+{
+  "width": 720,
+  "height": 1280,
+  "model": "krea2/Krea2_Raw_convrot_int8mixed.safetensors",
+  "turbo_lora_strength": 1.0,
+  "style_lora": "krea2/holosomnia-krea2-style-v3-full.safetensors",
+  "style_lora_strength": 0.4,
+  "assets": [
+    {
+      "slug": "01_hana_character",
+      "seed": 21137,
+      "prompt": "A polished vertical HoloSomnia-style cel-shaded anime character reference illustration of one full-body figure. Hana is an eleven-year-old East Asian girl with a chin-length black bob, warm dark-brown eyes, and natural child proportions. She wears a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. She stands in a relaxed three-quarter profile facing toward the right, both arms resting naturally at her sides and every garment fully visible. Her expression is gentle, alert, and quietly determined. The uncluttered background is a pale lavender-to-pink studio gradient with a soft oval ground shadow. Clean sculpted forms, precise cel shading, subtle iridescent rim light, and a pristine animation-model-sheet finish define the image.",
+      "prompt_id": "9b14c3cf-46d7-4a7d-af50-c671877b4ac8",
+      "output": {
+        "filename": "01_hana_character_00001_.png",
+        "subfolder": "City_Kite_Demo_Krea_Refs",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "02_white_kite",
+      "seed": 42281,
+      "prompt": "A polished vertical HoloSomnia-style cel-shaded prop reference illustration showing one centered plain white diamond kite from the front. Its smooth white paper face is completely unmarked, stretched into a clean symmetrical diamond with a fine warm-grey perimeter and a simple pale bamboo cross visible beneath the paper. Two narrow white ribbon tails extend separately from the bottom point and curve gently downward, both fully visible. A single thin cream string leads from the kite to a small dark-wood spool arranged neatly near the lower edge. The object is isolated against a luminous cobalt-to-lavender sky gradient with soft pink reflected light, crisp silhouette separation, and restrained shadows.",
+      "prompt_id": "48a04997-3483-4559-ba65-d10e04781b2c",
+      "output": {
+        "filename": "02_white_kite_00001_.png",
+        "subfolder": "City_Kite_Demo_Krea_Refs",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "03_city_start",
+      "seed": 67309,
+      "prompt": "A dynamic vertical HoloSomnia-style cel-shaded anime starting frame in a bright Japanese hillside city at golden hour. Hana, one eleven-year-old East Asian girl with a chin-length black bob and warm dark-brown eyes, runs toward screen-right through the right half of a broad pedestrian street. She wears a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes, and holds a small dark-wood spool. A plain unmarked white diamond kite with two narrow white ribbon tails flies behind her in the upper-left, connected by one taut cream string that forms a clean backward diagonal. Colorful mid-rise buildings, elevated walkways, glass awnings, balconies, trees, and abstract glowing shop panels create layered urban depth while the street remains open around her. Strong golden sunbeams stream between soaring bright pink and purple clouds and reflect in gold, magenta, and lavender across the rain-polished pavement. The low three-quarter camera gives Hana and the trailing kite clear, separate silhouettes and a strong forward path.",
+      "prompt_id": "4a423a3d-13da-4a22-b0b5-f3d36d859251",
+      "output": {
+        "filename": "03_city_start_00001_.png",
+        "subfolder": "City_Kite_Demo_Krea_Refs",
+        "type": "output"
+      }
+    }
+  ]
+}

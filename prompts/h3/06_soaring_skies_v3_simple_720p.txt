@@ -1,0 +1,16 @@
+<Picture 1> is the exclusive authority for Hana's identity, age, face, hair, body proportions, and wardrobe. Preserve exactly one eleven-year-old East Asian girl with a chin-length black bob, a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Use none of the studio background. Hana remains below and outside the visible frame during this sky-focused shot.
+
+<Picture 2> is the exclusive authority for the kite and line. Preserve exactly one plain unmarked white paper diamond kite with a fine warm-grey edge, pale bamboo cross spars, exactly two narrow white ribbon tails, and one thin cream string. Use none of the gradient background or spool.
+
+<Picture 3> is the exclusive authority for the soaring multicolored cloud corridor, distant valley, golden-hour rays, pink-purple-cobalt-peach palette, atmospheric depth, and polished HoloSomnia hand-painted cel-animation style.
+
+integrated_multimodal_description: One uninterrupted 6.6-second vertical aerial shot. The single plain white kite begins in the lower-middle already flying upward through the broad cloud corridor toward the radiant upper-right opening. Its cream string continues diagonally down-right beyond the frame toward unseen Hana, and its two white tails stream independently toward the lower-left.
+
+The kite makes one gentle bank into the wind, flexes only slightly like paper over a rigid bamboo frame, then levels and continues a calm steady climb. Keep the kite coherent, crisp, and moderately small against the enormous sky. It never dives, stops, changes shape, grows enormous, duplicates, or loses its string.
+
+Use one smooth stabilized chase camera slightly below and behind the kite, traveling at matching speed while tilting upward gently. No orbit, roll, shake, sudden zoom, or acceleration. Painted cloud banks drift slowly with controlled depth: nearer violet and cobalt edges move somewhat faster, middle pink and peach layers move gently, and the distant radiant opening remains stable. Golden, magenta, and lavender light shafts shimmer softly without flicker. Far below, the mountain valley and winding lake recede through blue haze.
+
+End with the kite gliding serenely into the bright upper-right opening, still connected by the cream line extending out of frame. Preserve crisp stable ink contours, flat two-tone cel shading, matte gouache texture, luminous HoloSomnia color, clean silhouette separation, and subtle multiplane parallax. No photorealism, 3D gloss, line wobble, texture flicker, extra kite, extra tails, detached line, morphing, cut, subtitles, logo, or watermark.
+
+overall_soundscape: Broad high-altitude wind, soft kite-paper and twin-ribbon flutter, a faint taut-string hum, distant birds, and open mountain air. No dialogue and no music.
+non_diegetic_music: N/A

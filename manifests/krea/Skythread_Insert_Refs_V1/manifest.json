@@ -1,0 +1,43 @@
+{
+  "width": 720,
+  "height": 1280,
+  "model": "krea2/Krea2_Raw_convrot_int8mixed.safetensors",
+  "turbo_lora_strength": 1.0,
+  "style_lora": "krea2/holosomnia-krea2-style-v3-full.safetensors",
+  "style_lora_strength": 0.4,
+  "scenes": [
+    {
+      "slug": "01_bunny_field_start",
+      "seed": 95113,
+      "prompt": "A low animal-eye-level lateral wide shot across a gently sloping summer field in the same Japanese mountain valley. The composition has three clean depth layers. In the immediate lower foreground, exactly four natural wild rabbits, two adults and two smaller kits, gather beside one low weathered wooden water trough filled with clear water and one compact rectangular golden hay bale. All four rabbits have turned their ears and faces toward the background runner; their bodies are separate, anatomically correct, and poised to spring in different directions, but none has moved yet. In the unobstructed middle background, exactly one Hana, an eleven-year-old East Asian girl with a chin-length black bob, warm dark-brown eyes, a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes runs naturally from screen-left toward screen-right along one horizontal field path, small enough to remain clearly behind the rabbits. She holds the dark-wood spool in her right hand. Exactly one plain unmarked white paper diamond kite with a fine warm-grey edge, a simple pale bamboo cross, exactly two narrow white ribbon tails, one thin cream string, and one small dark-wood spool flies high behind Hana in the upper-left, well separated from her, with one long taut cream line connected directly to the spool. The kite trails behind her travel direction and never appears in her hand. Wind-shaped grasses, sparse blue and yellow wildflowers, a distant cedar fence, irregular paddies, pine ridges, and a luminous lake create an open rightward movement corridor. Exactly one girl, four rabbits, one trough, one hay bale, and one kite; no other people or animals. Polished vertical HoloSomnia-style hand-painted cel animation, crisp stable inked contours, flat two-tone cel shading, matte gouache and watercolor texture, clean sculpted forms, deep layered atmospheric perspective, and controlled 2D multiplane depth. Bright golden-hour sunlight pours through immense pink, purple, peach, pale-cyan, and cobalt clouds, creating visible stable rays and reflected bands of gold, magenta, and lavender. Keep the white kite crisp and plain against the saturated landscape.",
+      "prompt_id": "d22919e4-adca-4da7-bf94-906c99d8f940",
+      "output": {
+        "filename": "01_bunny_field_start_00001_.png",
+        "subfolder": "Skythread_Insert_Refs_V1",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "02_topdown_kite_birds_start",
+      "seed": 95267,
+      "prompt": "The camera points exactly perpendicular to the earth in a strict ninety-degree straight-down aerial view with no horizon and no oblique perspective. Far below, organic asymmetrical rice paddies, a narrow blue-green irrigation channel, rounded meadow edges, scattered stones, and small pine clusters form flowing map-like shapes. At the exact visual center flies exactly one plain unmarked white paper diamond kite with a fine warm-grey edge, a simple pale bamboo cross, exactly two narrow white ribbon tails, one thin cream string, and one small dark-wood spool, seen cleanly from above with its complete diamond silhouette, bamboo cross, and two separate tails readable. Its single cream string continues straight through the bottom edge toward unseen Hana. Exactly three small barn swallows fly around the kite at different distances in one loose clockwise arc: one near upper-left, one at frame-right, and one lower-right. Each bird is a separate clean dark-and-cream silhouette with two wings, one head, and a forked tail; no overlap, flock clump, or extra birds. Reflected pink-purple clouds and long gold sunbeams shimmer in the irrigation water while soft cloud shadows cross the fields. The graphic composition is spacious and calm, designed for the birds to circle and peel away from the kite. Polished vertical HoloSomnia-style hand-painted cel animation, crisp stable inked contours, flat two-tone cel shading, matte gouache and watercolor texture, clean sculpted forms, deep layered atmospheric perspective, and controlled 2D multiplane depth. Bright golden-hour sunlight pours through immense pink, purple, peach, pale-cyan, and cobalt clouds, creating visible stable rays and reflected bands of gold, magenta, and lavender. Keep the white kite crisp and plain against the saturated landscape.",
+      "prompt_id": "32be6926-2cf4-4928-9997-c09d6edb90cb",
+      "output": {
+        "filename": "02_topdown_kite_birds_start_00001_.png",
+        "subfolder": "Skythread_Insert_Refs_V1",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "03_train_tracking_start",
+      "seed": 95419,
+      "prompt": "A stabilized low lateral wide composition beside a rural railway in the same Japanese mountain valley after rain. The foreground contains one broad safe footpath running horizontally from screen-left to screen-right, separated from the railway by one simple cedar fence. Exactly one hana, an eleven-year-old east asian girl with a chin-length black bob, warm dark-brown eyes, a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes runs left-to-right in a lively balanced stride on the foreground path, shown full-body in three-quarter side profile with generous open lead room ahead. She holds the small dark-wood spool in her right hand. Exactly one plain unmarked white paper diamond kite with a fine warm-grey edge, a simple pale bamboo cross, exactly two narrow white ribbon tails, one thin cream string, and one small dark-wood spool remains high and behind her in the upper-left, connected to the spool by one long taut cream line and trailing clearly opposite her direction of travel. In the middle distance, exactly one cream-and-vermilion local electric train passes left-to-right on one straight horizontal track parallel to Hana. Its scale, windows, doors, wheels, and carriage geometry remain coherent and clearly behind the fence. The train and Hana travel in the same direction on separate depth planes, suitable for a smooth lateral tracking camera. Wet grasses, blue hydrangeas, curved rice fields, cedar houses, and pine-covered hills recede beneath bright multicolored clouds. Crisp frozen storyboard moment with no motion blur, Dutch angle, vibration, crossing collision, duplicate train, duplicate girl, or extra kite. Polished vertical HoloSomnia-style hand-painted cel animation, crisp stable inked contours, flat two-tone cel shading, matte gouache and watercolor texture, clean sculpted forms, deep layered atmospheric perspective, and controlled 2D multiplane depth. Bright golden-hour sunlight pours through immense pink, purple, peach, pale-cyan, and cobalt clouds, creating visible stable rays and reflected bands of gold, magenta, and lavender. Keep the white kite crisp and plain against the saturated landscape.",
+      "prompt_id": "2fbb860c-f2c4-4c02-9d9a-d1c2f62a6435",
+      "output": {
+        "filename": "03_train_tracking_start_00001_.png",
+        "subfolder": "Skythread_Insert_Refs_V1",
+        "type": "output"
+      }
+    }
+  ]
+}

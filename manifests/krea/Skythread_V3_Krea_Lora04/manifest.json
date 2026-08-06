@@ -1,0 +1,96 @@
+{
+  "width": 720,
+  "height": 1280,
+  "seeds": {
+    "01_veranda_start": 31017,
+    "02_village_start": 44291,
+    "03_rice_start": 58733,
+    "04_canal_start": 69109,
+    "05_train_start": 80473,
+    "06_cloud_start": 91831,
+    "07_shrine_start": 104729
+  },
+  "model": "krea2/Krea2_Raw_convrot_int8mixed.safetensors",
+  "turbo_lora": "krea2/krea2_raw_to_turbo_r256_comfy.safetensors",
+  "style_lora": "krea2/holosomnia-krea2-style-v3-full.safetensors",
+  "style_lora_strength": 0.4,
+  "scenes": [
+    {
+      "slug": "01_veranda_start",
+      "seed": 31017,
+      "prompt": "Hana is always the same eleven-year-old East Asian girl with a chin-length black bob, large warm dark-brown eyes, a straw sunhat with one indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Keep her face, age, proportions, clothing, and colors identical. The kite is always the same rigid handmade ivory diamond kite, about the length of Hana's torso, with exactly one perfectly centered vermilion sun disk, visible dark bamboo cross spars, exactly two long narrow indigo ribbon tails, and one thin cream string attached to one small dark-wood spool. Keep its scale, geometry, construction, and colors identical; never add another kite, disk, tail, or string. All scenes belong to one midsummer Japanese mountain village after rain: a cedar farmhouse above narrow lanes, luminous rice terraces below, a rural railway at the valley edge, giant cloud corridors overhead, and a weathered ridge shrine. Scene one starting frame: a static child-eye-level medium-wide on the wet veranda of the cedar farmhouse in warm late-afternoon light. Hana kneels left-of-center tightening the final knot while the full upright kite rests right-of-center on the boards, both completely visible and connected by the cream string. The spool rests beside her knee. A glass wind chime, a pale doorway curtain, wet leaves, and distant laundry create restrained depth, with clear open space toward frame-right for the launch. Correct natural hands, exactly one girl, one kite, one spool, and two kite tails. Rendered in the distinctive HoloSomnia style as a polished digital 3D anime illustration with sharp clean cel shading, sculpted glossy forms, smooth stylized surfaces, luminous iridescent highlights, latex-like and crystalline cloud textures, saturated cyan, cobalt, magenta, violet, vermilion, gold, orange, indigo, and emerald colors, deep high-contrast shadows, bright clean rim light, dramatic layered depth, and a pristine highly detailed finish. Cinematic native vertical 9:16 composition, one coherent frame, no text, no logo, no watermark, no split screen, no collage. ",
+      "prompt_id": "e9762311-0384-43cf-b542-56228cc71311",
+      "output": {
+        "filename": "01_veranda_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "02_village_start",
+      "seed": 44291,
+      "prompt": "Hana is always the same eleven-year-old East Asian girl with a chin-length black bob, large warm dark-brown eyes, a straw sunhat with one indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Keep her face, age, proportions, clothing, and colors identical. The kite is always the same rigid handmade ivory diamond kite, about the length of Hana's torso, with exactly one perfectly centered vermilion sun disk, visible dark bamboo cross spars, exactly two long narrow indigo ribbon tails, and one thin cream string attached to one small dark-wood spool. Keep its scale, geometry, construction, and colors identical; never add another kite, disk, tail, or string. All scenes belong to one midsummer Japanese mountain village after rain: a cedar farmhouse above narrow lanes, luminous rice terraces below, a rural railway at the valley edge, giant cloud corridors overhead, and a weathered ridge shrine. Scene two starting frame: a locked high three-quarter view down a narrow sunlit village lane. Hana is fully visible in the lower-left third beginning a natural run toward frame-right, holding the wooden spool. The full kite is already airborne above tiled roofs in the upper-left-to-middle area, the cream string drawing one clean visible diagonal between them. White laundry, indigo towels, persimmon leaves, telephone wires, shop curtains, and one bicycle form layered depth without obscuring Hana or the kite. Exactly one girl, one kite, one spool, one string, and two tails. Rendered in the distinctive HoloSomnia style as a polished digital 3D anime illustration with sharp clean cel shading, sculpted glossy forms, smooth stylized surfaces, luminous iridescent highlights, latex-like and crystalline cloud textures, saturated cyan, cobalt, magenta, violet, vermilion, gold, orange, indigo, and emerald colors, deep high-contrast shadows, bright clean rim light, dramatic layered depth, and a pristine highly detailed finish. Cinematic native vertical 9:16 composition, one coherent frame, no text, no logo, no watermark, no split screen, no collage. ",
+      "prompt_id": "4ce8d762-8746-4505-af88-b2c63cdb621a",
+      "output": {
+        "filename": "02_village_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "03_rice_start",
+      "seed": 58733,
+      "prompt": "Hana is always the same eleven-year-old East Asian girl with a chin-length black bob, large warm dark-brown eyes, a straw sunhat with one indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Keep her face, age, proportions, clothing, and colors identical. The kite is always the same rigid handmade ivory diamond kite, about the length of Hana's torso, with exactly one perfectly centered vermilion sun disk, visible dark bamboo cross spars, exactly two long narrow indigo ribbon tails, and one thin cream string attached to one small dark-wood spool. Keep its scale, geometry, construction, and colors identical; never add another kite, disk, tail, or string. All scenes belong to one midsummer Japanese mountain village after rain: a cedar farmhouse above narrow lanes, luminous rice terraces below, a rural railway at the valley edge, giant cloud corridors overhead, and a weathered ridge shrine. Scene three starting frame: a low lateral view at kite height beside luminous rice terraces. The full kite occupies the left-middle foreground just above blue and yellow wildflowers, pointed toward frame-right. Hana is fully visible farther behind on a raised path in a natural running stride, holding the spool, with one cream string correctly connecting her to the kite. Reflective paddies, mountain roofs, blue hills, rice leaves, and one small blue dragonfly create strong layered depth. Do not let flowers cover the subjects. Exactly one girl, one kite, one spool, one string, two tails. Rendered in the distinctive HoloSomnia style as a polished digital 3D anime illustration with sharp clean cel shading, sculpted glossy forms, smooth stylized surfaces, luminous iridescent highlights, latex-like and crystalline cloud textures, saturated cyan, cobalt, magenta, violet, vermilion, gold, orange, indigo, and emerald colors, deep high-contrast shadows, bright clean rim light, dramatic layered depth, and a pristine highly detailed finish. Cinematic native vertical 9:16 composition, one coherent frame, no text, no logo, no watermark, no split screen, no collage. ",
+      "prompt_id": "82736be4-88e6-43db-adc5-485012e14045",
+      "output": {
+        "filename": "03_rice_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "04_canal_start",
+      "seed": 69109,
+      "prompt": "The kite is always the same rigid handmade ivory diamond kite, about the length of Hana's torso, with exactly one perfectly centered vermilion sun disk, visible dark bamboo cross spars, exactly two long narrow indigo ribbon tails, and one thin cream string attached to one small dark-wood spool. Keep its scale, geometry, construction, and colors identical; never add another kite, disk, tail, or string. All scenes belong to one midsummer Japanese mountain village after rain: a cedar farmhouse above narrow lanes, luminous rice terraces below, a rural railway at the valley edge, giant cloud corridors overhead, and a weathered ridge shrine. Scene four starting frame: an exact straight-down graphic view with no horizon. A narrow blue-green irrigation canal forms a vertical ribbon through geometric rice terraces. At the lower-left water edge, the first clear reflection of the same kite enters frame with its centered vermilion disk, dark cross spars, one string reflection, and exactly two indigo tail reflections. Two white egrets stand on opposite grassy banks; small silver fish and pale cloud reflections sit beneath the transparent water. One kite reflection only, two egrets total, no girl, no solid kite resting in water. Rendered in the distinctive HoloSomnia style as a polished digital 3D anime illustration with sharp clean cel shading, sculpted glossy forms, smooth stylized surfaces, luminous iridescent highlights, latex-like and crystalline cloud textures, saturated cyan, cobalt, magenta, violet, vermilion, gold, orange, indigo, and emerald colors, deep high-contrast shadows, bright clean rim light, dramatic layered depth, and a pristine highly detailed finish. Cinematic native vertical 9:16 composition, one coherent frame, no text, no logo, no watermark, no split screen, no collage. ",
+      "prompt_id": "0088a5e6-beba-4025-a6ae-1db6fa4fbdd4",
+      "output": {
+        "filename": "04_canal_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "05_train_start",
+      "seed": 80473,
+      "prompt": "Hana is always the same eleven-year-old East Asian girl with a chin-length black bob, large warm dark-brown eyes, a straw sunhat with one indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Keep her face, age, proportions, clothing, and colors identical. The kite is always the same rigid handmade ivory diamond kite, about the length of Hana's torso, with exactly one perfectly centered vermilion sun disk, visible dark bamboo cross spars, exactly two long narrow indigo ribbon tails, and one thin cream string attached to one small dark-wood spool. Keep its scale, geometry, construction, and colors identical; never add another kite, disk, tail, or string. All scenes belong to one midsummer Japanese mountain village after rain: a cedar farmhouse above narrow lanes, luminous rice terraces below, a rural railway at the valley edge, giant cloud corridors overhead, and a weathered ridge shrine. Scene five starting frame: a locked low wide beside a rural railway crossing before the train arrives. Hana stands safely behind a black-and-amber striped gate in the lower-left third, full body visible, braced and looking up while holding the spool with both hands. The full kite is airborne in the upper-right third above the tracks, connected by one taut cream string. Blue hydrangeas and wet grass fill the lower foreground, rice fields and the village recede behind, and violet-blue storm clouds advance from upper-left while a warm opening remains at frame-right. Leave the middle tracks unobstructed for the later train. Exactly one girl, one kite, one spool, one string, two tails. Rendered in the distinctive HoloSomnia style as a polished digital 3D anime illustration with sharp clean cel shading, sculpted glossy forms, smooth stylized surfaces, luminous iridescent highlights, latex-like and crystalline cloud textures, saturated cyan, cobalt, magenta, violet, vermilion, gold, orange, indigo, and emerald colors, deep high-contrast shadows, bright clean rim light, dramatic layered depth, and a pristine highly detailed finish. Cinematic native vertical 9:16 composition, one coherent frame, no text, no logo, no watermark, no split screen, no collage. ",
+      "prompt_id": "dc933e5f-c094-4d7e-b131-fcb4b7938693",
+      "output": {
+        "filename": "05_train_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "06_cloud_start",
+      "seed": 91831,
+      "prompt": "The kite is always the same rigid handmade ivory diamond kite, about the length of Hana's torso, with exactly one perfectly centered vermilion sun disk, visible dark bamboo cross spars, exactly two long narrow indigo ribbon tails, and one thin cream string attached to one small dark-wood spool. Keep its scale, geometry, construction, and colors identical; never add another kite, disk, tail, or string. All scenes belong to one midsummer Japanese mountain village after rain: a cedar farmhouse above narrow lanes, luminous rice terraces below, a rural railway at the valley edge, giant cloud corridors overhead, and a weathered ridge shrine. Scene six starting frame: an immense upward-looking aerial view inside a corridor of violet-blue storm clouds. The full kite is in the lower-middle third climbing diagonally toward frame-right through fine rain, with its cream string attached and descending out of the lower edge toward tiny flat rice terraces far below. A narrow cream-and-amber opening glows high at frame-right. Giant cloud masses create a clear diagonal route. One kite only, one string, one vermilion disk, two indigo tails, no girl, no railway gate. Rendered in the distinctive HoloSomnia style as a polished digital 3D anime illustration with sharp clean cel shading, sculpted glossy forms, smooth stylized surfaces, luminous iridescent highlights, latex-like and crystalline cloud textures, saturated cyan, cobalt, magenta, violet, vermilion, gold, orange, indigo, and emerald colors, deep high-contrast shadows, bright clean rim light, dramatic layered depth, and a pristine highly detailed finish. Cinematic native vertical 9:16 composition, one coherent frame, no text, no logo, no watermark, no split screen, no collage. ",
+      "prompt_id": "24a18b85-3a6e-4005-9f8b-7618367be0a0",
+      "output": {
+        "filename": "06_cloud_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "07_shrine_start",
+      "seed": 104729,
+      "prompt": "Hana is always the same eleven-year-old East Asian girl with a chin-length black bob, large warm dark-brown eyes, a straw sunhat with one indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Keep her face, age, proportions, clothing, and colors identical. The kite is always the same rigid handmade ivory diamond kite, about the length of Hana's torso, with exactly one perfectly centered vermilion sun disk, visible dark bamboo cross spars, exactly two long narrow indigo ribbon tails, and one thin cream string attached to one small dark-wood spool. Keep its scale, geometry, construction, and colors identical; never add another kite, disk, tail, or string. All scenes belong to one midsummer Japanese mountain village after rain: a cedar farmhouse above narrow lanes, luminous rice terraces below, a rural railway at the valley edge, giant cloud corridors overhead, and a weathered ridge shrine. Scene seven starting frame: a calm medium-wide on a mountaintop shrine terrace at luminous amber sunset. A weathered vermilion torii frames the view. Hana stands full-body beneath it in the left-middle, calmly holding the spool and looking up. The full kite descends from the upper-left-to-middle area toward her, connected by one gently taut cream string. The valley below shows tiny village roofs, reflective rice terraces, and the railway beneath immense amber-edged clouds. One bronze bell, white prayer streamers, and a cedar branch frame the top. Exactly one girl, one kite, one spool, one string, one bell, and two kite tails. Calm, grand, resolved. Rendered in the distinctive HoloSomnia style as a polished digital 3D anime illustration with sharp clean cel shading, sculpted glossy forms, smooth stylized surfaces, luminous iridescent highlights, latex-like and crystalline cloud textures, saturated cyan, cobalt, magenta, violet, vermilion, gold, orange, indigo, and emerald colors, deep high-contrast shadows, bright clean rim light, dramatic layered depth, and a pristine highly detailed finish. Cinematic native vertical 9:16 composition, one coherent frame, no text, no logo, no watermark, no split screen, no collage. ",
+      "prompt_id": "332ffd2c-d5f8-4cf6-9228-815d652eee24",
+      "output": {
+        "filename": "07_shrine_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04",
+        "type": "output"
+      }
+    }
+  ]
+}

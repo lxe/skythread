@@ -1,0 +1,18 @@
+<Picture 1> is the exclusive authority for Hana's identity, age, face, hair, body proportions, and wardrobe. Preserve exactly one eleven-year-old East Asian girl with a chin-length black bob, a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Use none of the studio background.
+
+<Picture 2> is the exclusive authority for the kite, line, and spool. Preserve exactly one plain unmarked white paper diamond kite with a fine warm-grey edge, pale bamboo cross spars, exactly two narrow white ribbon tails, one thin cream string, and one small dark-wood spool. Use none of the gradient background.
+
+<Picture 3> is the exclusive authority for the mountaintop shrine terrace, lower-left stone path, vermilion torii, cedar shrine building, lanterns, prayer streamers, curved rice terraces, glowing lake, layered mountains, golden-hour lighting, and polished HoloSomnia hand-painted cel-animation style.
+
+integrated_multimodal_description: One uninterrupted 8.7-second calm closing shot. Begin in a balanced medium-wide view of the shrine terrace. Hana enters from the lower-left at a light run, traveling toward screen-right while holding the dark-wood spool in her right hand. The single white kite glides high behind her through the upper-left sky, connected by one clean gently taut cream string. Its two white tails stream separately in the ridge wind.
+
+Hana crosses beneath the vermilion torii and naturally slows from a run to a walk. Near the open center-right of the terrace she eases to a stop, relaxes her shoulders, and turns her head toward the glowing valley. She keeps the spool low in her right hand. The kite remains high and stable behind her, drifting softly without descending, diving, or changing shape. The string stays visibly connected and gently taut.
+
+Use one very slow stabilized camera pullback and crane upward. Begin at child height with Hana readable as a full figure, then gradually reveal the complete torii, shrine terrace, curved paddies, lake, and mountain layers. The move stays smooth, level, and restrained, becoming grand only in the final third. During the last two seconds, keep the resolved wide composition while the camera continues an almost imperceptible drift.
+
+Prayer streamers lift softly, pampas grass and Hana's clothing move in the same breeze, one bronze bell sways gently, cloud edges drift slowly, and the lake carries warm reflected light. Stable golden rays pass through immense pink and lavender clouds around the low sun. End with Hana and the high white kite small beneath the torii against the luminous valley: peaceful, powerful, and complete.
+
+Preserve crisp stable ink contours, flat two-tone cel shading, matte gouache texture, exact identity and wardrobe, exact kite geometry, clean object separation, and consistent screen direction. Exactly one Hana and one kite. No duplicate subjects, extra limbs, broken or looping line, grounded kite, relaunch, catch choreography, teleport, morphing, sudden zoom, orbit, camera shake, cut, subtitles, logo, or watermark.
+
+overall_soundscape: Gentle ridge wind, receding canvas-shoe footfalls on stone, soft spool and taut-string sounds, distant kite-paper and ribbon flutter, prayer streamers, one restrained bronze bell resonance, distant birds, and valley water. No dialogue and no music.
+non_diegetic_music: N/A

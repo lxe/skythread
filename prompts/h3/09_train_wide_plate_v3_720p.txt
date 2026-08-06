@@ -1,0 +1,18 @@
+<Picture 1> defines Hana only: one eleven-year-old East Asian girl with a chin-length black bob, straw sunhat with indigo band, cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Preserve her identity and proportions exactly. Ignore the portrait background.
+
+<Picture 2> defines one plain white paper diamond kite only: pale bamboo cross spars, two narrow white ribbon tails, one thin cream flight line, and one small dark-wood spool. Ignore the blue gradient background.
+
+<Picture 3> defines the shot. Preserve its wide composition, camera height, scale, depth, and HoloSomnia cel-painted style: the broad diagonal dirt path in the foreground, hydrangeas at the lower edge, flooded paddies, low cedar fence, the small cream-and-vermilion two-car local train on the middle-distance track, valley, mountains, and luminous pink-purple-gold sunset. Do not replace this with a close side-profile view. The train must remain small and fully readable at approximately its Picture 3 scale.
+
+integrated_multimodal_description: One uninterrupted five-second wide vertical landscape shot. Begin from almost exactly the composition of <Picture 3>. Hana enters from the lower-left edge and runs energetically toward screen-right along the broad foreground dirt path. She stays small in the landscape, approximately one-sixth of the image height, and remains safely in front of the fence. Her stride is loose, lively, and natural, with alternating planted footsteps and an ordinary two-arm running rhythm.
+
+Both of Hana's hands are empty, simple closed running fists. Her left hand belongs only to her left arm and her right hand belongs only to her right arm. The small wooden spool is securely clipped at her right waistband beside her hip; she never touches it. The single thin flight line begins at that hip-mounted spool, extends cleanly upward behind her, and connects to the underside bridle of one modest-sized white kite high in the upper-left sky. The kite trails her motion and its two ribbon tails flutter in the breeze.
+
+At the same time, the same small two-car train already visible in <Picture 3> glides smoothly from screen-left toward screen-right along the middle-distance railway behind Hana. It keeps its original diagonal perspective, exact two-car form, colors, roof equipment, and distance. The train gradually passes behind her while never becoming huge or filling the frame.
+
+The camera makes a gentle stabilized pan-track toward screen-right, just enough to keep Hana in the lower foreground while preserving the grand landscape and the train's original scale. The horizon is locked and level. Fence posts and foreground grass create clean lateral parallax; distant mountains barely move. Water softly reflects the sunset, grasses and Hana's hat brim respond to a light breeze, and the golden-pink rays remain steady. No camera shake, zoom, cut, or scene redesign.
+
+Visual priorities: preserve <Picture 3> first; one small Hana, one small two-car train, one modest white kite. Hana has exactly one head, one torso, two arms, two hands, and two legs. Both hands stay empty. The spool remains clipped to her hip. No extra hand, duplicate limb, fused arm, object in hand, giant kite, giant train, close-up, anatomy morph, foot sliding, train deformation, broken string, reversed direction, duplicate subject, text, logo, or watermark.
+
+overall_soundscape: light natural running footfalls on dirt, a smooth electric-train motor and quiet rail rhythm in the middle distance, breeze through grass, soft kite-paper and ribbon flutter, and distant birds. No dialogue and no music.
+non_diegetic_music: N/A

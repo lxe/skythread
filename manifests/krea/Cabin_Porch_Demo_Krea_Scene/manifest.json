@@ -1,0 +1,17 @@
+{
+  "width": 720,
+  "height": 1280,
+  "seed": 73147,
+  "style_lora_strength": 0.4,
+  "scene": {
+    "slug": "01_cabin_porch_environment",
+    "seed": 73147,
+    "prompt": "A polished vertical HoloSomnia-style cel-shaded anime environment plate of a rustic cedar cabin porch overlooking an extraordinarily beautiful mountain landscape at golden hour. Broad rain-polished wooden boards fill the open lower half of the composition and run toward screen-right, creating a clear path for movement. The cabin wall, dark timber posts, an open doorway, and a small glass wind chime frame the left edge; a low railing and three shallow steps frame the right edge without blocking the deck. Beyond the porch, wildflower meadows descend toward a luminous winding lake, layered pine ridges, and distant blue mountains. The porch center is empty, uncluttered, and fully visible. A vast bright sky is filled with soaring pink and purple clouds, while strong golden sunbeams stream through their gaps and reflect in gold, magenta, and lavender across the wet wood, lake, and glass. Clean sculpted forms, deep atmospheric layers, crisp cel shading, iridescent cloud light, and serene cinematic depth define the image.",
+    "prompt_id": "328776af-b17c-40b2-9049-6264c7d6b99d",
+    "output": {
+      "filename": "01_cabin_porch_environment_00001_.png",
+      "subfolder": "Cabin_Porch_Demo_Krea_Scene",
+      "type": "output"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "width": 720,
+  "height": 1280,
+  "seeds": {
+    "01_veranda_start": 31017,
+    "02_village_start": 44291,
+    "03_rice_start": 58733,
+    "04_canal_start": 69109,
+    "05_train_start": 80473,
+    "06_cloud_start": 91831,
+    "07_shrine_start": 104729
+  },
+  "model": "krea2/Krea2_Raw_convrot_int8mixed.safetensors",
+  "turbo_lora": "krea2/krea2_raw_to_turbo_r256_comfy.safetensors",
+  "style_lora": "krea2/holosomnia-krea2-style-v3-full.safetensors",
+  "style_lora_strength": 0.4,
+  "scenes": [
+    {
+      "slug": "01_veranda_start",
+      "seed": 31017,
+      "prompt": "A child-eye-level medium-wide view across the wet wooden veranda of a cedar farmhouse in a Japanese mountain village after rain. Hana, a single eleven-year-old East Asian girl with a chin-length black bob and warm dark-brown eyes, wearing a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes, kneels in the lower-left third, her hands tightening the final knot on a single plain white diamond kite the length of her torso, its unmarked white paper stretched over a simple bamboo cross and finished with two narrow white ribbon tails. It leans upright immediately to her right with its full diamond silhouette visible; the spool rests beside her left knee. A pale doorway curtain, a glass wind chime, wet leaves, and distant rice terraces create restrained depth, while the right side of the veranda remains open for her next movement. Warm late-afternoon light follows the rain. The image is a polished vertical HoloSomnia-style cel-shaded anime illustration with sculpted forms and deep layered space. A vast bright golden-hour sky soars above the landscape, filled with luminous multicolored clouds in cyan, cobalt, pink, magenta, violet, peach, coral, and warm gold. Brilliant low sunlight creates iridescent cloud edges, radiant atmospheric depth, clean rim light, and long warm highlights, while the unmarked white kite remains crisp white.",
+      "prompt_id": "1ac154a2-f287-4fc8-8e4a-4606c874dee9",
+      "output": {
+        "filename": "01_veranda_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04_PromptV3",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "02_village_start",
+      "seed": 44291,
+      "prompt": "A high three-quarter medium-wide view looking down a narrow sunlit lane in the same Japanese mountain village after rain. Hana, a single eleven-year-old East Asian girl with a chin-length black bob and warm dark-brown eyes, wearing a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes, runs naturally from the lower-left toward the lower-right while holding a small dark-wood spool. A single plain white diamond kite the length of her torso, its unmarked white paper stretched over a simple bamboo cross and finished with two narrow white ribbon tails flies in the upper-left third above the tiled roofs, and its taut cream string forms a clean diagonal to the spool in her hands. Her entire body is clearly separated from the background. White laundry, indigo towels, persimmon leaves, wooden shop curtains, and receding telephone wires guide the lane toward green mountains beneath tall summer clouds. The image is a polished vertical HoloSomnia-style cel-shaded anime illustration with sculpted forms and deep layered space. A vast bright golden-hour sky soars above the landscape, filled with luminous multicolored clouds in cyan, cobalt, pink, magenta, violet, peach, coral, and warm gold. Brilliant low sunlight creates iridescent cloud edges, radiant atmospheric depth, clean rim light, and long warm highlights, while the unmarked white kite remains crisp white.",
+      "prompt_id": "e5a88845-292f-43b8-986c-e1a0eaa31982",
+      "output": {
+        "filename": "02_village_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04_PromptV3",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "03_rice_start",
+      "seed": 58733,
+      "prompt": "A low lateral medium-wide view beside luminous rice terraces in the same Japanese mountain village after rain. A single plain white diamond kite the length of her torso, its unmarked white paper stretched over a simple bamboo cross and finished with two narrow white ribbon tails flies left-of-center at chest height above a dry raised path, its diamond silhouette fully visible and approximately the height of a child's torso. On the same depth plane to the right, Hana, a single eleven-year-old East Asian girl with a chin-length black bob and warm dark-brown eyes, wearing a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes, runs toward the right in a balanced stride, holding a small dark-wood spool as the cream string connects her hands to the airborne diamond. Dry grass and sparse blue and yellow wildflowers fill the lower foreground. Lush green terraces begin behind the path and form horizontal steps toward dark cedar roofs, blue hills, and towering summer clouds. Open air clearly separates both subjects from the landscape. The image is a polished vertical HoloSomnia-style cel-shaded anime illustration with sculpted forms and deep layered space. A vast bright golden-hour sky soars above the landscape, filled with luminous multicolored clouds in cyan, cobalt, pink, magenta, violet, peach, coral, and warm gold. Brilliant low sunlight creates iridescent cloud edges, radiant atmospheric depth, clean rim light, and long warm highlights, while the unmarked white kite remains crisp white.",
+      "prompt_id": "d20aa993-54a2-4d25-a8e1-ed71c4430695",
+      "output": {
+        "filename": "03_rice_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04_PromptV3",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "04_canal_start",
+      "seed": 69109,
+      "prompt": "The camera points perpendicular to the ground in an exact straight-down aerial view. A narrow blue-green irrigation canal forms a vertical ribbon from the top edge to the bottom edge, surrounded on every side by rectangular rice paddies and grassy banks in the same Japanese mountain village. A single plain white diamond kite the length of her torso, its unmarked white paper stretched over a simple bamboo cross and finished with two narrow white ribbon tails flies above the center of the canal, its full diamond silhouette crisp against the dark water while its cream string continues through the bottom edge. Neat rows of rice seedlings, submerged round stones, and slow ripples create calm graphic patterns around the central flight path. Rectangular field boundaries remain parallel to the image edges, producing a flat, map-like composition. The image is a polished vertical HoloSomnia-style cel-shaded anime illustration with clean geometric shapes and sculpted surface detail. Golden-hour illumination turns the water into luminous bands of cyan, pink, peach, violet, and warm gold while the unmarked white kite remains crisp white.",
+      "prompt_id": "67830dc0-2861-451f-8d46-09a4d31df447",
+      "output": {
+        "filename": "04_canal_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04_PromptV3",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "05_train_start",
+      "seed": 80473,
+      "prompt": "A low wide view beside a rural railway crossing at the edge of the same Japanese mountain village after rain. Hana, a single eleven-year-old East Asian girl with a chin-length black bob and warm dark-brown eyes, wearing a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes, stands full-body in the lower-left third behind a lowered black-and-amber crossing gate, feet braced as both hands hold a small dark-wood spool. A single plain white diamond kite the length of her torso, its unmarked white paper stretched over a simple bamboo cross and finished with two narrow white ribbon tails flies high in the upper-right third, clearly separated from the clouds, with its taut cream string crossing the open sky to her hands. Parallel rails remain visible through the center and curve into rice fields and cedar houses. Blue hydrangeas and wet grass frame the bottom corners. Violet storm clouds advance from the upper-left while warm light survives at the right edge. The image is a polished vertical HoloSomnia-style cel-shaded anime illustration with sculpted forms and deep layered space. A vast bright golden-hour sky soars above the landscape, filled with luminous multicolored clouds in cyan, cobalt, pink, magenta, violet, peach, coral, and warm gold. Brilliant low sunlight creates iridescent cloud edges, radiant atmospheric depth, clean rim light, and long warm highlights, while the unmarked white kite remains crisp white.",
+      "prompt_id": "ad29a2a4-0ecd-4e7a-8210-86afad2d44e9",
+      "output": {
+        "filename": "05_train_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04_PromptV3",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "06_cloud_start",
+      "seed": 91831,
+      "prompt": "An immense upward-looking aerial view inside a corridor of violet-blue storm clouds above the same Japanese mountain valley. A single plain white diamond kite the length of her torso, its unmarked white paper stretched over a simple bamboo cross and finished with two narrow white ribbon tails climbs diagonally from the lower-middle toward a narrow amber opening in the upper-right, its complete diamond silhouette isolated within a clear band of sky. Fine rain slants across the frame and the cream string descends from the kite through the bottom edge toward tiny geometric rice terraces far below. The surrounding cloud walls curl inward as immense sculpted masses, creating a grand tunnel of violet, cobalt, pale cyan, and warm gold light. The image is a polished vertical HoloSomnia-style cel-shaded anime illustration with sculpted forms and deep layered space. A vast bright golden-hour sky soars above the landscape, filled with luminous multicolored clouds in cyan, cobalt, pink, magenta, violet, peach, coral, and warm gold. Brilliant low sunlight creates iridescent cloud edges, radiant atmospheric depth, clean rim light, and long warm highlights, while the unmarked white kite remains crisp white.",
+      "prompt_id": "923d84a2-bf0b-4611-a2bc-69e6bcdc3daf",
+      "output": {
+        "filename": "06_cloud_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04_PromptV3",
+        "type": "output"
+      }
+    },
+    {
+      "slug": "07_shrine_start",
+      "seed": 104729,
+      "prompt": "A calm medium-wide view on a weathered mountaintop shrine terrace at luminous amber sunset, overlooking the same Japanese mountain village. A vermilion torii forms a strong rectangular frame around Hana, a single eleven-year-old East Asian girl with a chin-length black bob and warm dark-brown eyes, wearing a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes, who stands full-body slightly left of center, shoulders relaxed as she looks upward and holds a small dark-wood spool. A single plain white diamond kite the length of her torso, its unmarked white paper stretched over a simple bamboo cross and finished with two narrow white ribbon tails descends through the open upper-middle of the torii, connected directly to her hands by a gently taut cream string. Far below, reflective rice terraces, tiny cedar roofs, and a thin railway settle into blue-green shadow. A bronze shrine bell hangs near one upper corner as immense amber-edged clouds open beyond the ridge. The mood is quiet, powerful, and resolved. The image is a polished vertical HoloSomnia-style cel-shaded anime illustration with sculpted forms and deep layered space. A vast bright golden-hour sky soars above the landscape, filled with luminous multicolored clouds in cyan, cobalt, pink, magenta, violet, peach, coral, and warm gold. Brilliant low sunlight creates iridescent cloud edges, radiant atmospheric depth, clean rim light, and long warm highlights, while the unmarked white kite remains crisp white.",
+      "prompt_id": "adfe612a-2773-4fca-91c0-cf01c63c538f",
+      "output": {
+        "filename": "07_shrine_start_00001_.png",
+        "subfolder": "Skythread_V3_Krea_Lora04_PromptV3",
+        "type": "output"
+      }
+    }
+  ]
+}

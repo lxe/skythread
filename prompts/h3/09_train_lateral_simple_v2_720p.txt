@@ -1,0 +1,20 @@
+<Picture 1> is the exclusive authority for Hana's identity, age, face, hair, body proportions, and wardrobe. Preserve exactly one eleven-year-old East Asian girl with one head, one torso, exactly two arms, exactly two hands, and exactly two legs. She has a chin-length black bob, a straw sunhat with an indigo band, a cream short-sleeve collared blouse, loose indigo culottes, white ankle socks, and red canvas shoes. Use none of the studio background.
+
+<Picture 2> is the exclusive authority for the single kite, line, and spool. Preserve exactly one plain unmarked white paper diamond kite with pale bamboo cross spars, exactly two narrow white ribbon tails at its lower point, one thin cream flight line, and one small dark-wood spool. Use none of the gradient background.
+
+<Picture 3> is the exclusive authority for the composition and setting. Preserve the same broad foreground path, cedar fence, straight railway, single cream-and-vermilion two-car local train, wet paddies, hydrangeas, valley, golden-hour sky, and polished HoloSomnia hand-painted cel-animation style. Do not redesign, relocate, duplicate, or replace the train, path, fence, fields, or camera axis.
+
+integrated_multimodal_description: One uninterrupted approximately five-second vertical shot. Hana runs naturally from screen-left to screen-right along the safe foreground path. She remains entirely in front of the cedar fence and never approaches the railway. Her right hand alone holds the dark-wood spool for the entire shot. Her left hand is empty for the entire shot and simply swings with her running gait. Her two hands remain clearly separated and attached to their correct arms at all times.
+
+The single local train passes from screen-left to screen-right on the middle-distance track behind Hana. Hana and the train move in the same direction on two separate depth planes. The train travels slightly faster and slides past her smoothly while preserving the exact two-car geometry, windows, doors, wheels, roof equipment, and cream-and-vermilion colors from <Picture 3>.
+
+The single plain white kite flies high behind Hana in the upper-left sky. One long taut cream line connects the kite directly to the spool in her right hand. The kite trails opposite Hana's direction of travel, remains safely clear of the train and wires, and keeps exactly two ribbon tails.
+
+Use one smooth stabilized lateral camera track toward screen-right at Hana's running speed. Keep Hana full-body and readable in a clean side profile with open space ahead. Maintain a level horizon, constant camera height, and constant subject scale. Foreground grasses and hydrangeas slide past gently, fence posts create steady parallax, the train moves smoothly behind her, and distant hills shift slowly. Golden light remains stable while a light breeze moves the grass, Hana's hat brim and clothing, and the kite tails.
+
+Hana performs one simple continuous run with natural alternating steps, planted feet, ordinary arm swing, and no tricks. She looks forward where she is going. No glance toward train, no jump, no skip, no wave, no hand change, no object transfer, no dramatic gust, and no pressure-wave reaction.
+
+Preserve crisp stable ink contours, flat two-tone cel shading, matte gouache texture, luminous pink-purple-gold HoloSomnia color, exact identity, stable train geometry, and clean object separation. Exactly one Hana, two arms, two hands, two legs, one spool in the right hand, one kite, one string, and one two-car train. No third hand, extra arm, extra fingers, duplicate subject, detached carriage, broken string, grounded kite, collision, reversed motion, foot sliding, morphing anatomy, camera shake, vibration, sudden zoom, cut, subtitles, logo, or watermark.
+
+overall_soundscape: Steady natural running footfalls, smooth electric-train motor and rail rhythm passing behind her, light wind through grasses and hydrangeas, soft kite-paper and ribbon flutter, and distant mountain birds. No dialogue and no music.
+non_diegetic_music: N/A

@@ -1,0 +1,10 @@
+<Picture 1> is the exclusive authority for Hana's identity, proportions, wardrobe colors, and straw hat. Preserve one eleven-year-old East Asian girl with a chin-length black bob, cream collared blouse, loose indigo culottes, white socks, and red canvas shoes. Use none of the studio background from this reference.
+
+<Picture 2> is the exclusive authority for the kite, string, and spool. Preserve one plain unmarked white diamond kite with a simple pale bamboo cross, exactly two separate white ribbon tails, one cream string, and one dark-wood spool. Use none of the gradient background from this reference.
+
+<Picture 3> is the exclusive authority for the true bird's-eye mountain terrain, winding path, organic contours, lighting, palette, and HoloSomnia cel-shaded rendering. Keep character, prop, and terrain materials strictly separate.
+
+integrated_multimodal_description: One uninterrupted six-second exact top-down aerial follow. The camera remains perpendicular to the ground with no horizon or roll. Hana appears as one clearly readable small figure on the pale path in the lower third and runs continuously upward and slightly toward screen-right along its first broad curve. Her red shoes, straw hat, cream blouse, and indigo culottes remain distinct at this scale. The single white kite follows behind her lower-left along the same route, separated from her silhouette and connected by one visible cream string; both tails stream backward toward the bottom-left. The drone floats forward at her average speed and makes one gentle altitude increase, revealing more of the winding trail while preserving the map-like geometry. Background motion is subtle: pine crowns stir, the narrow stream shimmers, small grass patches bend, and long violet shadows shift almost imperceptibly. Warm ridge light and reflected pink-purple color remain consistent. No cuts, perspective tilt, rapid rotation, zoom snap, duplicated figures, duplicated kites, morphing terrain, or frozen motion.
+
+overall_soundscape: high open wind, faint footsteps far below, soft kite flutter, stream water and distant birds; no dialogue.
+non_diegetic_music: N/A
