@@ -8,15 +8,19 @@ I started with the prompting and reference-ordering ideas in [this R2V post by u
 
 ## How the experiment evolved
 
-My first approach was to generate a finished starting image for every shot, with Hana, the kite, and the background already composed together. Some of the stills looked good, but H3 often duplicated a character or object, changed the kite's scale, or produced stiff motion. Adding more detail to the same image did not reliably fix it.
+I began by making a storyboard with ChatGPT ImageGen. My goal was to keep the same character and kite throughout the film, then use each storyboard image as the starting frame for its scene. The images had too many small noise artifacts, and the fully composed starting frames still did not give H3 reliable motion.
 
-The breakthrough was to simplify the inputs and give H3 three separate references:
+I also tried using the end of one generated scene as the reference for the next. That preserved the previous composition too literally and caused new problems with movement, framing, and camera direction. It kept continuity at the expense of good cinematography.
+
+The breakthrough was finding the R2V workflow and simplifying the inputs. Instead of carrying a whole frame forward, I gave H3 three reusable references:
 
 1. **Hana** for the character's face, clothes, age, and proportions.
 2. **The kite** for its shape, string, spool, and two tails.
 3. **An empty scene** for the location, lighting, composition, and overall style.
 
-I generated those references with Krea 2 and the HoloSomnia LoRA at `0.4`. Each reference used its own seed. I also simplified the kite to a plain white design and generated empty environment plates instead of asking Krea to place everything correctly in one image.
+This kept Hana and the kite consistent without locking every new scene to the previous camera angle. I made the final references with Krea 2 because I could apply my HoloSomnia LoRA, but the R2V setup is not tied to Krea. A clean image from another generator, a drawing, or your own artwork can work as a reference too.
+
+Each Krea reference used its own seed. I simplified the kite to a plain white design and generated empty environment plates instead of asking one image model to place everything correctly at once.
 
 The two main subject references are:
 
